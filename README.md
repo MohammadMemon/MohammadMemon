@@ -1,4 +1,4 @@
-# SAbout Me:
+# About Me:
 👋 Hi, I'm Mohammad Memon!<br>I'm a passionate Full Stack Developer currently revisiting and sharpening my skills in the MERN stack. I've built several projects, including e-commerce platforms, and I'm always on the lookout for new challenges to tackle.<br><br>💻 What I'm up to:<br>🔄 Revising the MERN stack to perfect my craft.<br>🚀 Working on a new website called Brainolio | Nurture Your Inner Genius, focused on digital products and expanding into the EdTech space.<br>🤖 Exploring advanced JavaScript, bit manipulation problems, and pushing my coding knowledge with LeetCode challenges.<br>🌱 Fun fact:<br>I'm on a continuous journey to evolve my skills, combining creativity and logic, whether I'm designing for kids or coding for innovation.<br><br>Let's build something awesome together!
 
 

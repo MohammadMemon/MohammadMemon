@@ -1,5 +1,36 @@
 # About Me:
-👋 Hi, I'm Mohammad Memon!<br>I'm a passionate Full Stack Developer currently revisiting and sharpening my skills in the MERN stack. I've built several projects, including e-commerce platforms, and I'm always on the lookout for new challenges to tackle.<br><br>💻 What I'm up to:<br>🔄 Revising the MERN stack to perfect my craft.<br>🚀 Working on a new website called Brainolio | Nurture Your Inner Genius, focused on digital products and expanding into the EdTech space.<br>🤖 Exploring advanced JavaScript, bit manipulation problems, and pushing my coding knowledge with LeetCode challenges.<br>🌱 Fun fact:<br>I'm on a continuous journey to evolve my skills, combining creativity and logic, whether I'm designing for kids or coding for innovation.<br><br>Let's build something awesome together!
+👋 Hi, I'm Mohammad Memon
+💡 Full-Stack Developer | Final-Year BCA Student | Software Engineering Intern
+
+I’m passionate about building scalable web applications and solving real-world problems with clean, efficient code. Over the last year, I’ve worked on production-grade projects and an industry internship where I handled everything from backend APIs to frontend features.
+
+💻 What I’m Working On
+
+🎯 Software Engineering Intern @ CycleDaddy
+
+Built a custom product scraper that reduced manual work by 95%.
+
+Developed and maintained a full-stack e-commerce platform with Next.js, MongoDB, and Express.
+
+Integrated secure authentication, payments, and SEO optimizations.
+
+🚀 Exploring advanced DSA in Java while preparing for coding challenges and assessments (CodeSignal, CodeVita, Hacktoberfest).
+
+🧩 Continuously sharpening my skills in Next.js, MongoDB, and system design.
+
+🔧 Tech Stack
+
+Languages: Java, JavaScript, TypeScript
+
+Frontend: React, Next.js, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, SQL
+
+Other Tools: Firebase, Razorpay, Git, Postman
+
+👉 Always open to collaborating on exciting projects, internships, or problem-solving discussions.
 
 
 ## 🌐 Socials:

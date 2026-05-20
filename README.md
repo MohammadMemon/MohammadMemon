@@ -13,7 +13,7 @@ and a polyglot Node.js + Python architecture.
 - DevOps: Docker, GitHub Actions, GCP
 - Frontend: React, Next.js, Tailwind CSS
 
-**Open to backend and full-stack roles in Mumbai.**
+**Open to backend and full-stack roles.**
 
 mohammad.78600@outlook.com  
 linkedin.com/in/MohammadMemon

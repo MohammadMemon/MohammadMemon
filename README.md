@@ -15,5 +15,5 @@ and a polyglot Node.js + Python architecture.
 
 **Open to backend and full-stack roles.**
 
-mohammad.78600@outlook.com  
+mohammadmemon.dev@outlook.com  
 linkedin.com/in/MohammadMemon
